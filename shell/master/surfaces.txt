@@ -1,0 +1,87 @@
+charset,Shift_JIS
+
+descript
+{
+	version,1
+}
+
+surface0
+{
+	//素
+	element0,base,base00.png,0,0
+}
+
+
+
+surface1
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,eye.PNG,0,0
+}
+
+surface2
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce00.PNG,0,0
+}
+
+surface3
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce00.PNG,0,0
+	element2,overlay,eye.PNG,0,0
+}
+
+surface4
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce01.PNG,0,0
+}
+
+surface5
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce01.PNG,0,0
+	element2,overlay,eye.PNG,0,0
+}
+
+surface6
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce02.PNG,0,0
+}
+
+surface7
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce02.PNG,0,0
+	element2,overlay,eye.PNG,0,0
+}
+
+surface8
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce03.PNG,0,0
+}
+
+surface9
+{
+	//目閉じ
+	element0,base,base00.PNG,0,0
+	element1,overlay,acce03.PNG,0,0
+	element2,overlay,eye.PNG,0,0
+}
+
+surface1000
+{
+	//kero
+	element0,base,base10.PNG,0,0
+}

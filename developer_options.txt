@@ -1,0 +1,43 @@
+ghost\master\editor\satori_editor_temp,nonar,noupdate
+ghost\master\editor\settings,nonar,noupdate
+ghost\master\satori_savebackup.txt,nonar,noupdate
+ghost\master\satori_savedata.txt,nonar,noupdate
+ghost/master/editor/CFLite.dll,nonar,noupdate
+ghost/master/editor/icudt40.dll,nonar,noupdate
+ghost/master/editor/icuin40.dll,nonar,noupdate
+ghost/master/editor/icuuc40.dll,nonar,noupdate
+ghost/master/editor/JavaScriptCore.dll,nonar,noupdate
+ghost/master/editor/libcurl.dll,nonar,noupdate
+ghost/master/editor/libeay32.dll,nonar,noupdate
+ghost/master/editor/libexslt.dll,nonar,noupdate
+ghost/master/editor/libxml2.dll,nonar,noupdate
+ghost/master/editor/libxslt.dll,nonar,noupdate
+ghost/master/editor/objc.dll,nonar,noupdate
+ghost/master/editor/pthreadVC2.dll,nonar,noupdate
+ghost/master/editor/SQLite3.dll,nonar,noupdate
+ghost/master/editor/ssleay32.dll,nonar,noupdate
+ghost/master/editor/WebKit.dll,nonar,noupdate
+ghost/ñvé´èë/,nonar,noupdate
+ghost/master/satori_savedata.txt,nonar,noupdate
+ghost/master/satori_savebackup.txt,nonar,noupdate
+ghost/master/profile/,nonar,noupdate
+ghost/master/dic_timeevent.txt,nonar,noupdate
+shell/master/profile/,nonar,noupdate
+shell/master/ç∑ï™ç¿ïW.txt,nonar,noupdate
+.gitignore,nonar,noupdate
+.gitattributes,nonar,noupdate
+.git/,nonar,noupdate
+ghost/master/satori_savedata.sat,nonar,noupdate
+ghost/master/satori_savebackup.sat,nonar,noupdate
+ghost/master/dic_othershell.txt,nonar,noupdate
+ghost/master/dic_database.txt,nonar,noupdate
+ghost/master/dic_develop.txt,nonar,noupdate
+ghost/master/satolist.dll,nonar,noupdate
+ghost/master/satolist.dll,nonar,noupdate
+ghost/master/satorite.exe,nonar,noupdate
+shell/2021denshi45/,nonar,noupdate
+ghost/master/satori_savebackup.sat,nonar,noupdate
+ghost/master/satori_savedata 2.sat,nonar,noupdate
+ghost/master/satori_savedata.sat,nonar,noupdate
+ghost/master/satori_savebackup 2.sat,nonar,noupdate
+ghost/master/satori_savebackup (2) 2.sat,nonar,noupdate

@@ -1,0 +1,8 @@
+charset,Shift_JIS
+craftman,mir hanon
+craftmanw,ê_ñÈÇ›Ç„ÇÒ
+craftmanurl,https://colorbox.saloon.jp/
+id,master
+name,master
+type,shell
+seriko.use_self_alpha,1

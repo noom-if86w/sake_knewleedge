@@ -1,0 +1,5 @@
+charset, Shift_JIS
+name,Žð‚ðˆù‚ñ‚Å’mŽ¯‚ðŒê‚Á‚Ä‚Í‚¢‚¯‚È‚¢
+type,ghost
+directory,sake_knewleedg
+refresh,0
